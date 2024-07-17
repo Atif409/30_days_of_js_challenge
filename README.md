@@ -10,6 +10,12 @@
 - Learned about arithmetic operators, assignment operators, comparison operators, and the ternary operator.
 - The challenge was quite interesting and easy to solve. Looking forward to seeing how difficult it will get in the upcoming days.
 
+### Day 3
+- Learned about conditional Statements like `if else`, `if, else if and else` and also covered Ternary Operators.
+
+### Day 4
+- Learned about Loops like `for loop`, `while loop`, `do while loop` and `nested loops`.
+
 ## Overview
 This repository documents my progress through the 30 Days of JavaScript Challenge by Chai aur Codei. Each day covers different aspects of JavaScript, helping to solidify my understanding and improve my coding skills.
 
