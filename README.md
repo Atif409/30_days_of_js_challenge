@@ -1,4 +1,4 @@
-# 30 Days of JavaScript Challenge by Chai aur Codei
+# 30 Days of JavaScript Challenge by Chai aur Code
 
 ## Progress
 
@@ -17,7 +17,7 @@
 - Learned about Loops like `for loop`, `while loop`, `do while loop` and `nested loops`.
 
 ## Overview
-This repository documents my progress through the 30 Days of JavaScript Challenge by Chai aur Codei. Each day covers different aspects of JavaScript, helping to solidify my understanding and improve my coding skills.
+This repository documents my progress through the 30 Days of JavaScript Challenge by Chai aur Code. Each day covers different aspects of JavaScript, helping to solidify my understanding and improve my coding skills.
 
 ## Goals
 - Enhance my JavaScript knowledge.
