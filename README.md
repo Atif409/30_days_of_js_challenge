@@ -16,6 +16,11 @@
 ### Day 4
 - Learned about Loops like `for loop`, `while loop`, `do while loop` and `nested loops`.
 
+### Day 5
+
+- Today, I learned about functions, function expressions, arrow functions, and higher-order functions.
+
+
 ## Overview
 This repository documents my progress through the 30 Days of JavaScript Challenge by Chai aur Code. Each day covers different aspects of JavaScript, helping to solidify my understanding and improve my coding skills.
 
